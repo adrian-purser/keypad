@@ -1,0 +1,7 @@
+*.pdf binary
+*.png binary
+*.jpg binary
+*.ods binary
+*.fodt text eol=lf
+*.svg text eol=lf
+
