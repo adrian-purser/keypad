@@ -1,6 +1,6 @@
 # keypad
 
-[Keypad](/images/keypad.png)
+![Keypad](/images/keypad.png)
 
 
 ## Introduction
